@@ -90,7 +90,8 @@ namespace ExamenRemedial
 
             if (SF.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
-
+                   
+                // cuando se guarda el archivo toma el texto de los RichTextBox 2 y 3 y salva 
                 using (var savef = new System.IO.StreamWriter(SF.FileName + ".txt"))
 
                 { savef.Write(R3.Text);
