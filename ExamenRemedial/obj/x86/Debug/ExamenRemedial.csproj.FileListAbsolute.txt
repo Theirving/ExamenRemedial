@@ -8,3 +8,9 @@ C:\Users\Idania.Idaniia\Documents\DAII\ARTURO\ExamenRemedial\ExamenRemedial\obj\
 C:\Users\Idania.Idaniia\Documents\DAII\ARTURO\ExamenRemedial\ExamenRemedial\obj\x86\Debug\ExamenRemedial.csprojResolveAssemblyReference.cache
 C:\Users\Idania.Idaniia\Documents\DAII\ARTURO\Remedial\ExamenRemedial\ExamenRemedial\obj\x86\Debug\ExamenRemedial.exe
 C:\Users\Idania.Idaniia\Documents\DAII\ARTURO\Remedial\ExamenRemedial\ExamenRemedial\obj\x86\Debug\ExamenRemedial.pdb
+C:\Users\Idania.Idaniia\Documents\DAII\ARTURO\Remedial\ExamenRemedial\ExamenRemedial\bin\Debug\ExamenRemedial.exe
+C:\Users\Idania.Idaniia\Documents\DAII\ARTURO\Remedial\ExamenRemedial\ExamenRemedial\bin\Debug\ExamenRemedial.pdb
+C:\Users\Idania.Idaniia\Documents\DAII\ARTURO\Remedial\ExamenRemedial\ExamenRemedial\obj\x86\Debug\ExamenRemedial.csprojResolveAssemblyReference.cache
+C:\Users\Idania.Idaniia\Documents\DAII\ARTURO\Remedial\ExamenRemedial\ExamenRemedial\obj\x86\Debug\ExamenRemedial.Form1.resources
+C:\Users\Idania.Idaniia\Documents\DAII\ARTURO\Remedial\ExamenRemedial\ExamenRemedial\obj\x86\Debug\ExamenRemedial.Properties.Resources.resources
+C:\Users\Idania.Idaniia\Documents\DAII\ARTURO\Remedial\ExamenRemedial\ExamenRemedial\obj\x86\Debug\ExamenRemedial.csproj.GenerateResource.Cache
