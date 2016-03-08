@@ -33,18 +33,28 @@ namespace ExamenRemedial
             // en la condicional se agregara el texto que se ingrese en el RichTexbox 
 
 
+
             if (SF.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
 
+
                 using (var savef = new System.IO.StreamWriter(SF.FileName + ".txt"))
+                {
 
-                { savef.Write(R1.Text); }
+                   
+                    {
+                        savef.Write(R1.Text);
+                        MessageBox.Show("Archivo Guardado");
+                    }
 
+                   
+                    
+                }
             }
 
 
             R1.Clear();
-            MessageBox.Show("Archivo Guardado");
+           
         
         
         
